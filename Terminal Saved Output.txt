@@ -1,0 +1,73 @@
+Last login: Tue Aug 22 14:27:13 on ttys000
+jhoannareyes@Jhoannas-MacBook-Air ~ % ls
+AndroidStudioProjects		Movies
+Applications			Music
+Desktop				Pictures
+Documents			Public
+Downloads			REYES, JHOANNA S..docx
+Library				Virtual Machines.localized
+jhoannareyes@Jhoannas-MacBook-Air ~ % cd Documents 
+jhoannareyes@Jhoannas-MacBook-Air Documents % ls
+9bc96660dc1b1b5ecca7871ee6776cd3.jpg
+Cert Client.png
+Devops
+Fw56-QTXgAAR_3M.jpeg
+IMMI Grant Notification (1).pdf
+IMMI Grant Notification (2).pdf
+JHOANNA_REYES_RESUME.pdf
+Klei
+LE SSERAFIM
+LaboratoryManualMaker_Group1.pdf
+Models
+Need.mp3
+OJT
+Project Design
+REYES JHOANNA C (49).JPG
+Student Outcomes
+TEAM 08_FINALDOCS2023_REVISION.docx
+TEAM 08_FINALDOCS2023_testresult.docx
+TRAINING PD
+Taylor Swift - You're Losing Me (Lyrics).mp3
+ViberDownloads
+Website
+[230611] Yunjin instagram post (jenaissante).jpeg
+[Full Document] DESIGN OF CUT TEST QUALITY ASSESSMENT SYSTEM FOR DRIED FERMENTED CACAO BEANS USING DEEP LEARNING.pdf
+aly
+android
+potential-ojt.numbers
+jhoannareyes@Jhoannas-MacBook-Air Documents % cd Devops 
+jhoannareyes@Jhoannas-MacBook-Air Devops % git clone https://github.com/Jhnnsrys21/git-github.git
+Cloning into 'git-github'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (3/3), done.
+jhoannareyes@Jhoannas-MacBook-Air Devops % ls
+OS		git-github
+jhoannareyes@Jhoannas-MacBook-Air Devops % touch sample1.txt
+jhoannareyes@Jhoannas-MacBook-Air Devops % vim sample1.txt 
+
+hi
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+-- INSERT --
